@@ -12,12 +12,9 @@
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-
-
-(https://github.com/myDosh/DOSH/blob/master/dosh-icon.png)
-
-![alt text](https://raw.githubusercontent.com/username/DOSH/dosh-icon.png)
-
+<p align="center">
+  <img src="https://github.com/myDosh/DOSH/blob/master/dosh-icon.png">
+</p>
 
 # Egalitarian Proof of work
 
