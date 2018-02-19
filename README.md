@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dosh-icon.png" width="220" height="240">
+</p>
+
 ## Welcome to DOSH Privacy Cryptocurrency
 
 ### Open Source Decentralized Blockchain
@@ -11,10 +15,6 @@
   Privacy is a fundamental human right and our endeavour is to establish Dosh as a truly Decentralized Cryptocurrency and to implement Egalitarian proof of work voting system where every participant have equal voting rights on the Network.
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
-
-<p align="center">
-  <img src="dosh-icon.png" width="220" height="240">
-</p>
 
 # Egalitarian Proof of work
 
