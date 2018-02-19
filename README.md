@@ -20,6 +20,8 @@
 
 Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being premined , instamined or any additional imposed interest percentage on coin mining.
 
+
+
 ## Anonamyous Transactions
 
 Most important aspect of our Objectives is to make All transactions on the Dosh Blockchain: anonymous and untraceable. CryptoNight scheme provides all participants with fully anonymous payment system through adopting Ring Signature Technology to render all payments executions indistinguishable and untraceable.
