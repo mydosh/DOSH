@@ -14,7 +14,7 @@
 
 
 
-
+[logo]: https://github.com/myDOSH/DOSH/dosh-icon (1)00u1.png
 
 ![alt text](https://raw.githubusercontent.com/username/DOSH/dosh-icon (1)00u1.png)
 
